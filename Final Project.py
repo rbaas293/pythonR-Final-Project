@@ -5,7 +5,9 @@ Created on Wed Apr 24 18:07:08 2019
 @author: issac
 """
 import math
+
 import matplotlib.pyplot as plt
+
 #import matplotlib.animation as animation
 #from matplotlib import style
 
@@ -83,8 +85,8 @@ def cartoon():
     
 #    plt.style.use('ggplot') #,'fivethirtyeight')
     
-    Max_Height = Vel_y * (time_F/2) + 0.5 * ay * (time_F/2)**2;
-    Final_Time = time_F;
+    Max_Height = Vel_y * (time_F/2) + 0.5 * ay * (time_F/2)**2
+    Final_Time = time_F
     
     return(round(Max_Height,3), round(Distance_xnow,3), round(Final_Time,3))
     
@@ -143,14 +145,3 @@ print('\n\n\n**Projectile Information** \nMaximum Height: ', z[0], '(m)', '\nFin
 #
 #
 #len(thislist)
-
-
-
-
-
-
-
-
-
-
-

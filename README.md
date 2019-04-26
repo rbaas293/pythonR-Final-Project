@@ -12,5 +12,19 @@ Final Project for `(19SS-Full) INTRO PROGRAMMING PYTHON AND R (001)` at *Univers
   
 #### Get Up and Running
 
-1. Clone the repository: `... havent finished yet`
-   
+- NOTE: Sadly we did not get to creating the GUI. Maybe in the future though!
+
+1. Clone the repository: `git clone https://github.com/rbaas293/pythonr-final-project.git `
+2. Run project
+
+* Using PowerShell on Windows
+
+ ```PowerShell
+ Python ".\Final Project.py"
+ ```  
+
+* Using Mac or Linux
+
+```Bash
+Python3 ./Final\ Project.py
+```
