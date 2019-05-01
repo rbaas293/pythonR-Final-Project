@@ -1,6 +1,6 @@
-# Final Project for `CS2005C - INTRO PROGRAMMING PYTHON AND R`
+# Final Project for `CS2005C - INTRO PROGRAMMING PYTHON AND R` at *University of Cincinnati*.
 
-Final Project for `(19SS-Full) INTRO PROGRAMMING PYTHON AND R (001)` at *University of Cincinnati*.
+
 
 ## Project Contributors: `Issachar Anderson`, `Ryan Baas`, `Charles Adams`  
 
