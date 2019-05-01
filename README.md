@@ -20,7 +20,7 @@ Final Project for `(19SS-Full) INTRO PROGRAMMING PYTHON AND R (001)` at *Univers
 * Using PowerShell on Windows
 
  ```PowerShell
- Python ".\Final Project.py"
+ Python3 ".\Final Project.py"
  ```  
 
 * Using Mac or Linux
