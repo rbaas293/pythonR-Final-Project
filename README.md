@@ -1,4 +1,4 @@
-# Final Project for `CS2005C - INTRO PROGRAMMING PYTHON AND R` at *University of Cincinnati*.
+# Final Project for CS2005C - INTRO PROGRAMMING PYTHON AND R at *The University of Cincinnati*.
 
 
 
