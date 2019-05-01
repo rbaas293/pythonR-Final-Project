@@ -12,8 +12,8 @@
 
 1. Dependencies:
   
-  1. [Python3](https://www.python.org/downloads/release/python-373/), making sure it is in your `PATH` envirment vairiable if on Windows.
-  2. The following packages: `pip3 install math matplotlib`
+  * [Python3](https://www.python.org/downloads/release/python-373/), making sure it is in your `PATH` envirment vairiable if on Windows.
+  * The following packages: `pip3 install math matplotlib`
 
 2. Clone the repository: `git clone https://github.com/rbaas293/pythonr-final-project.git `
 3. Run project
