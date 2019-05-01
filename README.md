@@ -1,7 +1,5 @@
 # Final Project for CS2005C - INTRO PROGRAMMING PYTHON AND R at *The University of Cincinnati*.
 
-
-
 ## Project Contributors: `Issachar Anderson`, `Ryan Baas`, `Charles Adams`  
 
 ### Repository Layout
@@ -12,18 +10,21 @@
   
 #### Get Up and Running
 
-- NOTE: Sadly we did not get to creating the GUI. Maybe in the future though!
+1. Dependencies:
+  
+  1. [Python3](https://www.python.org/downloads/release/python-373/)
+  2. The following packages: `pip3 install math matplotlib`
 
-1. Clone the repository: `git clone https://github.com/rbaas293/pythonr-final-project.git `
-2. Run project
+2. Clone the repository: `git clone https://github.com/rbaas293/pythonr-final-project.git `
+3. Run project
 
-* Using PowerShell on Windows
+  * Using PowerShell on Windows
 
  ```PowerShell
 Python3 ".\Final Project.py"
  ```
 
-* Using Mac or Linux
+  * Using Mac or Linux
 
 ```Bash
 Python3 ./Final\ Project.py
