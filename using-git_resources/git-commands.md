@@ -1,4 +1,23 @@
+### Create new repository on the command line
+
+```shell
+echo "# lisnr-code-challenge" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin <GitHub-URL>
+git push -u origin master
+```
+
+### Push an existing repository from the command line
+
+```shell
+git remote add origin <GitHub-URL>
+git push -u origin master
+```
+
 ### Create a new Local branch based on your current checked out branch
+
 ```Shell
 git checkout -b <new-branch-name>
 ```
